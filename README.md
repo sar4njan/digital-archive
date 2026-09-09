@@ -6,8 +6,8 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-| Clément HAOND |   Clement-77   | DWDI        |
-| Saranjan JASINTHAN | 5ar4n | DWDI        |
+| Clément HAOND | Clement-77 | DWDI |
+| Saranjan JASINTHAN | 5ar4n | DWDI |
 
 ### Répartition du travail
 
