@@ -1,4 +1,4 @@
-# Festi'JS — [nom de votre festival]
+# Festi'JS — Gametunes
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
@@ -13,14 +13,14 @@
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
-- **[Nom 2] →**
+- **Clément →**
+- **Saranjan →**
 
 ## Le festival
 
-- **Thème :**
-- **En une phrase :**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- **Thème : Musique et jeux vidéos**
+- **En une phrase : Festival axé sur tous les types de jeux vidéos ainsi que les éléments qui la composent**
+- **Blind test envisagé : Les musiques des jeux vidéos, les personnages, les éléments, les références** audio / vidéo — sur quoi ?
 
 ## Lancer le projet
 
