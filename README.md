@@ -1,4 +1,4 @@
-# Festi'JS — Gametunes
+# Festi'JS — Digital Archive
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
