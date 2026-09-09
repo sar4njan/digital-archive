@@ -20,7 +20,7 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 - **Thème : Tech**
 - **En une phrase : Festival axé sur les dernières technologies mais aussi les technologies obsolètes**
-- **Blind test envisagé : Sonneries de téléphone, Deviner l'usage des produits, Deviner l'année d'une technologie** audio / vidéo — sur quoi ?
+- **Blind test envisagé : Sonneries de téléphone, Deviner l'usage des produits, Deviner l'année d'une technologie**
 
 ## Lancer le projet
 
