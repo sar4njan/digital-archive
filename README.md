@@ -7,7 +7,7 @@
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
 | Clément HAOND | CLM-HND | DWDI |
-| Saranjan JASINTHAN | 5ar4n | DWDI |
+| Saranjan JASINTHAN | sar4njan | DWDI |
 
 ### Répartition du travail
 
@@ -18,9 +18,9 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 ## Le festival
 
-- **Thème : Musique et jeux vidéos**
-- **En une phrase : Festival axé sur tous les types de jeux vidéos ainsi que les éléments qui la composent**
-- **Blind test envisagé : Les musiques des jeux vidéos, les personnages, les éléments, les références** audio / vidéo — sur quoi ?
+- **Thème : Tech**
+- **En une phrase : Festival axé sur les dernières technologies mais aussi les technologies obsolètes**
+- **Blind test envisagé : Sonneries de téléphone, Deviner l'usage des produits, Deviner l'année d'une technologie** audio / vidéo — sur quoi ?
 
 ## Lancer le projet
 
